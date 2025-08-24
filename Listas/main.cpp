@@ -9,6 +9,8 @@ int main(){
     insertarElementoEnLista(l, 4);
     Lista l_aux = crearListaVacia();
 
+    std::cout << largoLista(l) << std::endl;
+
     while (!esVaciaLista(l))
     {
         int a = eliminarPrimerElemento(l);
@@ -20,6 +22,7 @@ int main(){
     {
         std::cout << eliminarPrimerElemento(l_aux) << std::endl;
     }
+
     destruirLista(l);
     destruirLista(l_aux);
     

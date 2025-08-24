@@ -12,3 +12,9 @@ Cada proyecto está organizado en carpetas independientes, con su propio `main.c
 - Incluye constructoras, selectoras, predicados y destructoras para manipular puntos en un plano.  
 - `main.c` demuestra la creación de puntos y el cálculo de distancias entre ellos.
 
+### Racionales
+- Esta módulo implementa un  **TAD Racionales** en C++.
+- Incluye constructoras, selectoras, predicados y destructoras para manipular racionales. 
+- `main.cpp` demuestra la creación de números racionales y la ejecución de operaciones básicas entre ellos (suma, resta, multiplicación, división y comparación).
+
+

@@ -3,3 +3,5 @@
 programa
 *.dSYM/
 .vscode/
+main
+programa_cpp

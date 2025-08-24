@@ -102,7 +102,7 @@ int sonIguales(Racional r1, Racional r2) {
 
 // PRE: r != NULL
 // POST: libera la memoria de Racional
-void destruirRacional(Racional r){
+void destruirRacional(Racional &r){
     free(r);
 }
 

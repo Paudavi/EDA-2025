@@ -52,6 +52,7 @@ int main(){
 
     if(esVaciaPila(pila)) std::cout << "Frase balanceada" << std::endl;
     else std::cout << "Frase no balanceada" << std::endl;
+    destruirPila(pila);
 
     return 0;
 }

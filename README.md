@@ -21,3 +21,8 @@ Cada proyecto está organizado en carpetas independientes, con su propio `main.c
 - Este módulo implementa un **TAD Lista Enlazada** en C++.
 - Incluye constructoras, selectoras, predicados y destructoras para manipular listas de enteros.
 - `main.cpp` demuestra la creación de listas, la inserción de elementos al principio y al final, el cálculo del largo, la eliminación del primer elemento y la destrucción de la lista.
+
+### Pilas
+- Este módulo implementa un **TAD Pila (Stack)** en C++.
+- Incluye constructoras, selectoras, predicados y destructoras para manipular pilas acotadas.
+- `main.cpp` demuestra la implementación de pilas para chequear frases balanceadas.
